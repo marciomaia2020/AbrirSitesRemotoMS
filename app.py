@@ -60,7 +60,7 @@ SITES = [
         'url': 'https://combinacao-i.onrender.com/'
     },
     {
-        'name': 'Estratégias | Resultados | Dígitos',
+        'name': 'Estatísticas | Dígitos',
         'url': 'https://resultadosdigitosmegasena.onrender.com/'
     },
     {
