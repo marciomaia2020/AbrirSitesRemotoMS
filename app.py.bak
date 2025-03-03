@@ -62,7 +62,7 @@ SITES = [
 # Lista de sites externos para abrir
 SITES = [
        {
-        'name': 'Estatísticas | Análise de Palpites (Digitos)',
+        'name': 'Estratégias | Análise de Palpites',
         'url': 'https://analisedospalpitesms.onrender.com/'
     },
         {
