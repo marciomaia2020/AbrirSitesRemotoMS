@@ -41,27 +41,19 @@ else:
 SITES = [
     {
         'name': 'Estatísticas | Calculadora Combinações (Dígitos)',
-        'url': 'https://combinacao-ii.onrender.com//'
-    },
-       {
-        'name': 'Estatísticas | Análise de Palpites (Digitos)',
-        'url': 'https://analisedospalpitesms.onrender.com/'
-    },
-        {
-        'name': 'Estratégias | Palpites II',
-        'url': 'https://palpitesms.onrender.com/'
+        'url': 'https://combinacaodoisdiadesorte.onrender.com/'
     },
         {
         'name': 'Geradores | Combinação I',
-        'url': 'https://combinacao-i.onrender.com/'
+        'url': 'https://combinacaoumdiadesorte.onrender.com/'
     },
         {
         'name': 'Estatísticas | Análise de Dígitos',
-        'url': 'https://resultadosdigitosmegasena.onrender.com/'
+        'url': 'https://resultadosdigitosdiadesorte.onrender.com/'
     },
         {
         'name': 'Estatísticas | Resumo',
-        'url': 'https://resumomegasena.onrender.com/'
+        'url': 'https://resumodiadesorte.onrender.com/'
     },
 ]
 
