@@ -39,31 +39,14 @@ else:
 
 # Lista de sites externos para abrir
 SITES = [
-    {
-        'name': 'Estatísticas | Calculadora Combinações (Dígitos)',
-        'url': 'https://combinacao-ii.onrender.com//'
-    },
-       {
-        'name': 'Estatísticas | Análise de Palpites (Digitos)',
-        'url': 'https://analisedospalpitesms.onrender.com/'
-    },
-        {
-        'name': 'Estratégias | Palpites II',
-        'url': 'https://palpitesms.onrender.com/'
-    },
-        {
-        'name': 'Geradores | Combinação I',
-        'url': 'https://combinacao-i.onrender.com/'
-    },
-        {
-        'name': 'Estatísticas | Análise de Dígitos',
-        'url': 'https://resultadosdigitosmegasena.onrender.com/'
-    },
-        {
-        'name': 'Estatísticas | Resumo',
-        'url': 'https://resumomegasena.onrender.com/'
-    },
-]
+        {'name': 'Estatísticas | Calculadora Combinações (Dígitos)','url': 'https://combinacao-ii.onrender.com/'},
+        {'name': 'Geradores | Combinação I','url': 'https://combinacao-i.onrender.com/'},
+        {'name': 'Estatísticas | Análise de Palpites (Digitos)','url': 'https://analisedospalpitesms.onrender.com/'},
+        {'name': 'Estratégias | Palpites II','url': 'https://palpitesms.onrender.com/'},
+        {'name': 'Geradores | Baseado em Dígitos','url': 'https://geradorbaseadoemdigitosmegasena.netlify.app/'},
+        {'name': 'Estatísticas | Análise de Dígitos','url': 'https://resultadosdigitosmegasena.onrender.com/' },
+        {'name': 'Estatísticas | Resumo','url': 'https://resumomegasena.onrender.com/'},
+        ]
 
 @app.route('/')
 def index():
